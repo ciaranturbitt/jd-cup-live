@@ -1,0 +1,1 @@
+{"name":"jd-cup-live","version":"1.0.0","private":true,"scripts":{"dev":"netlify dev"},"devDependencies":{"netlify-cli":"^23.0.0"}}
