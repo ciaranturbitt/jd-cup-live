@@ -1,0 +1,1 @@
+export default async()=>{const url=process.env.SUPABASE_URL,anonKey=process.env.SUPABASE_ANON_KEY;if(!url||!anonKey)return new Response(JSON.stringify({error:"Auth not configured"}),{status:503,headers:{"content-type":"application/json"}});return new Response(JSON.stringify({url,anonKey}),{headers:{"content-type":"application/json","cache-control":"no-store"}})};

@@ -1,39 +1,23 @@
 {
   "title": "Deck The Haaland's Christmas Cup 2026",
-  "round": "Round 3",
-  "gameweek": 11,
+  "round": "Quarter Final",
+  "gameweek": 12,
   "leagueId": 397375,
   "fixtures": [
     [
       "Nick Jackson",
-      "John Quinn"
+      "Aidan Quinn"
     ],
     [
-      "Aidan Quinn",
-      "Ciaran Turbitt"
-    ],
-    [
-      "Andrew Cullinan",
-      "Peter Ramsey"
-    ],
-    [
-      "Stephen Carroll",
+      "Peter Ramsey",
       "Mick Lennox"
     ],
     [
-      "Shane Greene",
-      "Ciaran Brady"
+      "Ciaran Brady",
+      "Flash Jordan"
     ],
     [
-      "Flash Jordan",
-      "Iain Parker"
-    ],
-    [
-      "Ronan Tierney",
-      "John Wall"
-    ],
-    [
-      "Shane Egan",
+      "John Wall",
       "Alastair Loney"
     ]
   ],
