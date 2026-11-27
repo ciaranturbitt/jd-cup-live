@@ -1,0 +1,33 @@
+{
+  "current": "quarter-finals",
+  "rounds": [
+    {
+      "id": "round-3",
+      "name": "Round 3",
+      "gameweek": 11,
+      "path": "/rounds/round-3/",
+      "available": true
+    },
+    {
+      "id": "round-2-replay",
+      "name": "Round 2 Replay",
+      "gameweek": 10,
+      "path": "/rounds/round-2-replay/",
+      "available": true
+    },
+    {
+      "id": "round-2",
+      "name": "Round 2",
+      "gameweek": 9,
+      "path": "/rounds/round-2/",
+      "available": true
+    },
+    {
+      "id": "round-1",
+      "name": "Round 1",
+      "gameweek": 7,
+      "path": "/rounds/round-1/",
+      "available": true
+    }
+  ]
+}

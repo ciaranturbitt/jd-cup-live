@@ -1,0 +1,30 @@
+{
+  "title": "Deck The Haaland's Christmas Cup 2026",
+  "round": "Quarter Final",
+  "gameweek": 13,
+  "leagueId": 397375,
+  "fixtures": [
+    [
+      "Nick Jackson",
+      "Aidan Quinn"
+    ],
+    [
+      "Peter Ramsey",
+      "Mick Lennox"
+    ],
+    [
+      "Ciaran Brady",
+      "Flash Jordan"
+    ],
+    [
+      "John Wall",
+      "Alastair Loney"
+    ]
+  ],
+  "overrides": {},
+  "historicalScores": [],
+  "firstKickoffAt": null,
+  "fullTimeAt": null,
+  "id": "quarter-finals",
+  "archived": false
+}
